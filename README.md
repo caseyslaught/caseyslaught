@@ -1,0 +1,5 @@
+- 👋 Hey there, I’m @caseyslaught
+- 👀 I’m interested in cloud-based geospatial analysis
+- 🌱 I’m currently learning about machine learning and satellite imagery
+- 📖 I'm currently earning my master's at Duke University
+- 🦍 I also maintain some technology projects at @virunga
