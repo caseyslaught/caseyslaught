@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m Casey Slaught
 - 👀 I’m interested in cloud-based geospatial analysis and machine learning
 - 📖 I'm currently earning a master's degree at Duke University
-- 🦍 I also maintain some technologies at [Virunga National Park](https://virunga.org)
+- 🦍 On the side, I maintain some technologies at [Virunga National Park](https://virunga.org)
 - 🥧 I also enjoy memorizing digits of pi (1760 and counting)
