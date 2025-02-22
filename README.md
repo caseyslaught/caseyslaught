@@ -1,6 +1,5 @@
 - 👋 Hey there, I’m Casey Slaught
 - 👀 I’m interested in full-stack development, cloud-based geospatial analysis, and machine learning
-- 📖 I recently finished a master's at Duke University where I built [Smart Carte](https://smartcarte.earth), a web app for preparing cloud-free Sentinel-2 imagery
-- 🦍 On the side, I maintain some technologies at [Virunga National Park](https://virunga.org)
+- 📖 I recently completed a master's degree at Duke University where I built Smart Carte, a web app for preparing cloud-free Sentinel-2 imagery
 - 🛸 I'm also working on [Rasterly](https://rasterly.com), a tool to easily manage and visualize massive aerial imagery
 - 🥧 I also enjoy memorizing digits of pi (1760 and counting)
