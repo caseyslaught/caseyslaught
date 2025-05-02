@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m Casey Slaught
-- 👀 I’m interested in full-stack development, cloud-based geospatial analysis, and machine learning
-- 📖 I recently completed a master's degree at Duke University where I built Smart Carte, a web app for preparing cloud-free Sentinel-2 imagery
+- 👀 I’m interested in web, geospatial, and wildlife conservation things
+- 📖 I recently completed a master's degree at Duke University where I focused on cloud-based geospatial ML
 - 🛸 I'm also working on [Rasterly](https://rasterly.com), a tool to easily manage and visualize massive aerial imagery
 - 🥧 I also enjoy memorizing digits of pi (1760 and counting)
